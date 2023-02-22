@@ -17,20 +17,15 @@ const apiSlice = createSlice({
   extraReducers: (builder) => {
     builder
       .addCase(getApiData.pending, (state) => {
-        // state.status = 'loading';
         const newState = state;
         newState.status = "loading";
       })
       .addCase(getApiData.fulfilled, (state, action) => {
-        // state.status = 'succeeded';
-        // state.data = action.payload;
         const newState = state;
         newState.status = "succeeded";
         newState.data = action.payload;
       })
       .addCase(getApiData.rejected, (state, action) => {
-        // state.status = 'failed';
-        // state.error = action.error.message;
         const newState = state;
         newState.status = "failed";
         newState.error = action.error.message;
