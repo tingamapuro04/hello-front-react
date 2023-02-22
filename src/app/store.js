@@ -3,8 +3,8 @@ import localApiData from '../features/dataasync/dataSlice';
 
 const store = configureStore({
   reducer: {
-    apidata: localApiData
+    apidata: localApiData,
   },
 });
 
-export default store
+export default store;
