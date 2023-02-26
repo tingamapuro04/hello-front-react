@@ -1,6 +1,29 @@
 <a name="readme-top"></a>
 
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
@@ -31,13 +54,13 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-# BackEnd API
-[hello-front-react](https://github.com/tingamapuro04/hello-front-react)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Front End API Consumption<] <a name="about-project">Front End API Consumption</a>
+# 📖 [your_project_name] <a name="about-project">Front End API Consumption</a>
 
 # 
 
@@ -61,7 +84,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="*">Ruby on Rails</a></li>
+    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
   </ul>
 </details>
 
@@ -76,6 +99,7 @@
 
 ### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
 
 - **[Fetch data from api]**
 - **[Define routes]**
@@ -83,6 +107,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 > Not deployed yet
 
@@ -125,6 +152,9 @@ Install this project with:
 To run the project, execute the following command:
 - run npm start
 - open your browser and navigate to localhost port 3000 to see your project
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
